@@ -1,2 +1,2 @@
 # historiAR
-Unity application as didactic resource in the teaching of the first years of the conquest of Guatemala.
+Aplicación desarrollada en Unity, utilizando realidad aumentada, como recurso didáctico en la enseñanza de los primeros años de la conquista de Guatemala.
