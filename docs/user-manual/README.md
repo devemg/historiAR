@@ -49,4 +49,8 @@ contenido proporcionado dentro de la aplicación.
 
 ![image](https://github.com/devemg/historiAR/assets/43097082/6641edc4-e151-49f4-8fb5-3531613a8cd0)
 
+La primera vez que se abre la cámara, se solicitarán los permisos al usuario para utilizar la cámara mientras la aplicación está en uso.
+
+![image](https://github.com/devemg/historiAR/assets/43097082/33658f7c-efa0-4cfc-978d-e3c5be6ae103)
+
 
